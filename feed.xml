@@ -5,35 +5,42 @@
   <link>https://xuongguongsoi.github.io/guongled/</link>
   <description>Gương soi đèn LED của xưởng: viền phun mờ, hắt sau, hắt trước, trước và sau. Chọn theo kiểu ánh sáng và số đo thật, xưởng dán đèn và đấu nguồn trước khi giao.</description>
   <language>vi-VN</language>
-  <lastBuildDate>Mon, 28 Sep 2026 06:59:51 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 07:44:24 GMT</lastBuildDate>
   <atom:link href="https://xuongguongsoi.github.io/guongled/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Chuẩn bị nguồn điện cho gương LED</title>
     <link>https://xuongguongsoi.github.io/guongled/huong-dan/chuan-bi-nguon-dien/</link>
     <guid isPermaLink="true">https://xuongguongsoi.github.io/guongled/huong-dan/chuan-bi-nguon-dien/</guid>
     <description>Việc phải làm trước khi ốp gạch, và cách xử lý khi đã lỡ ốp xong.</description>
-    <pubDate>Mon, 28 Sep 2026 06:59:51 GMT</pubDate>
+    <pubDate>Fri, 02 Oct 2026 07:44:24 GMT</pubDate>
   </item>
   <item>
     <title>Chọn nhiệt độ màu cho gương LED</title>
     <link>https://xuongguongsoi.github.io/guongled/huong-dan/chon-nhiet-do-mau/</link>
     <guid isPermaLink="true">https://xuongguongsoi.github.io/guongled/huong-dan/chon-nhiet-do-mau/</guid>
     <description>Ba mức thông dụng, mức nào cho việc nào, và vì sao đèn vàng làm hỏng lớp nền.</description>
-    <pubDate>Mon, 28 Sep 2026 06:59:51 GMT</pubDate>
+    <pubDate>Fri, 02 Oct 2026 07:44:24 GMT</pubDate>
   </item>
   <item>
     <title>Xử lý gương mờ hơi nước</title>
     <link>https://xuongguongsoi.github.io/guongled/huong-dan/guong-mo-hoi-nuoc/</link>
     <guid isPermaLink="true">https://xuongguongsoi.github.io/guongled/huong-dan/guong-mo-hoi-nuoc/</guid>
     <description>Vì sao gương mờ, chức năng sấy làm gì, và cách rẻ nhất giải quyết vấn đề.</description>
-    <pubDate>Mon, 28 Sep 2026 06:59:51 GMT</pubDate>
+    <pubDate>Fri, 02 Oct 2026 07:44:24 GMT</pubDate>
   </item>
   <item>
     <title>Đèn gương hỏng thì sửa hay thay</title>
     <link>https://xuongguongsoi.github.io/guongled/huong-dan/den-hong-thi-sua-hay-thay/</link>
     <guid isPermaLink="true">https://xuongguongsoi.github.io/guongled/huong-dan/den-hong-thi-sua-hay-thay/</guid>
     <description>Ba bộ phận hay hỏng, cách nhận ra hỏng cái nào, và cái nào thay được tại chỗ.</description>
-    <pubDate>Mon, 28 Sep 2026 06:59:51 GMT</pubDate>
+    <pubDate>Fri, 02 Oct 2026 07:44:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>Gương LED toàn thân đứng hoặc dựa tường: lấy điện sao cho đúng</title>
+    <link>https://xuongguongsoi.github.io/guongled/bai-viet/guong-led-toan-than-dung-hoac-dua-tuong-lay-dien-sao-cho-dung/</link>
+    <guid isPermaLink="true">https://xuongguongsoi.github.io/guongled/bai-viet/guong-led-toan-than-dung-hoac-dua-tuong-lay-dien-sao-cho-dung/</guid>
+    <description>Hướng dẫn lấy điện cho gương LED toàn thân loại đứng và dựa tường: dùng nguồn 12V, đi dây gọn, chọn ổ cắm và giữ driver dễ thay khi hỏng.</description>
+    <pubDate>Fri, 02 Oct 2026 07:44:23 GMT</pubDate>
   </item>
   <item>
     <title>Gương LED sát biển Vũng Tàu: giữ mạch điện khỏi hơi muối</title>
